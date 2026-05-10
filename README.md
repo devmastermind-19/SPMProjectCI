@@ -1,6 +1,6 @@
 # QuickPOS ⚡
 
-[![QuickPOS CI/CD Pipeline](https://github.com/yourusername/quickpos/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/quickpos/actions/workflows/ci.yml)
+[![QuickPOS CI/CD Pipeline](https://github.com/devmastermind-19/quickpos/actions/workflows/ci.yml/badge.svg)](https://github.com/devmastermind-19/quickpos/actions/workflows/ci.yml)
 
 Modern Point of Sale (POS) Landing Page with Full Stack Integration and CI/CD Pipeline.
 
