@@ -95,7 +95,18 @@ Our GitHub Actions pipeline (`.github/workflows/ci.yml`) automates quality assur
 6. **PR Blocking:** Pull Requests are blocked from merging if any checks fail.
 
 ## 📸 Screenshots
-*(Add screenshots of your landing page, CI/CD pipeline success, and PRs here)*
 
----
+<img width="948" height="437" alt="image" src="https://github.com/user-attachments/assets/4037eaeb-0a02-473a-9e80-8c1f7bddf8c8" />
+
+<img width="947" height="439" alt="image" src="https://github.com/user-attachments/assets/7831e553-8be8-46bc-9b3b-58b93145b6c1" />
+
+<img width="950" height="442" alt="image" src="https://github.com/user-attachments/assets/10e3d79a-c542-4459-9484-f87184ff4b93" />
+
+<img width="952" height="439" alt="image" src="https://github.com/user-attachments/assets/41f9e159-4c9d-4564-ac3b-36b5491dd80b" />
+
+<img width="959" height="391" alt="image" src="https://github.com/user-attachments/assets/c939023b-e614-460e-91b2-690fa7914ee7" />
+
+
+
+
 *Developed for SPM Semester Project.*
