@@ -24,6 +24,13 @@ jobs:
           # Fetch the commit message
           COMMIT_MSG=$(git log -1 --pretty=format:"%s")
           echo "Commit Message: $COMMIT_MSG"
+          
+          # Skip validation for merge commits
+          if [[ "$COMMIT_MSG" =~ ^Merge ]]; then
+            echo "Merge commit detected. Skipping Jira ID validation."
+            exit 0
+          fi
+
           # Check if the commit message contains [POS-XXX]
           if [[ ! "$COMMIT_MSG" =~ \[POS-[0-9]+\] ]]; then
             echo "Error: Commit message does not contain a valid Jira ID (e.g., [POS-101])."
