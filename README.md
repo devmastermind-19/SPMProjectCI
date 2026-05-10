@@ -106,7 +106,7 @@ Our GitHub Actions pipeline (`.github/workflows/ci.yml`) automates quality assur
 
 <img width="959" height="391" alt="image" src="https://github.com/user-attachments/assets/c939023b-e614-460e-91b2-690fa7914ee7" />
 
-
+<img width="947" height="446" alt="image" src="https://github.com/user-attachments/assets/73fc1c03-1d17-4800-bb55-38f949cd3ee7" />
 
 
 *Developed for SPM Semester Project.*
